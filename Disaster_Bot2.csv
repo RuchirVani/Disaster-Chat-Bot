@@ -1,8 +1,0 @@
-Staff Type,Staff Name,Staff Phone Number,Staff Zip Code,Distance (miles),Last Shift End,Still on shift,Time Elapsed,Time Elapsed,Cost,On Leave (0 means yes),MIN. REST SCORE,Priority Score,,,,,,,,,,,3/28/2017 16:00,8:00
-GP Doctor,Doc B,8573897908,2115,2.3,17:00,1,Still on Shift,0:00,"823,073",1,0, -   ,,,,,,,,,,,4:00 PM,
-GP Doctor,Doc D,7329796830,2143,2.4,21:00,1,Still on Shift,0:00,"481,110",1,0, -   ,,,,,,,,,,,,
-GP Doctor,Doc I,5617620868,2421,13.6,22:00,1,Still on Shift,0:00,"965,114",1,0, -   ,,,,,,,,,,,,
-GP Doctor,Doc J,8573897908,1905,11.1,0:00,1,Still on Shift,0:00,"748,949",1,0, -   ,,,,,,,,,,,,
-GP Nurse,GN B,8573897908,2125,5.3,17:00,1,Still on Shift,0:00,"49,913",1,0, -   ,,,,,,,,,,,,
-GP Nurse,GN D,8573897908,2155,5.1,21:00,1,Still on Shift,0:00,"83,535",1,0, -   ,,,,,,,,,,,,
-GP Nurse,GN I,8573897908,2421,13.6,22:00,1,Still on Shift,0:00,"29,405",1,0, -   ,,,,,,,,,,,,
